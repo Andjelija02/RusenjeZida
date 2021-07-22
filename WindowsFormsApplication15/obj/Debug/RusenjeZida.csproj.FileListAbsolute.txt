@@ -1,0 +1,9 @@
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\RusenjeZida.csprojResolveAssemblyReference.cache
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\RusenjeZida.csproj.GenerateResource.Cache
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+D:\RG\Programiranje\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
